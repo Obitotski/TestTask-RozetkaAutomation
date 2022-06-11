@@ -13,5 +13,4 @@ public abstract class BasePage {
     public static WebDriver getDriver() {
         return driver;
     }
-
 }

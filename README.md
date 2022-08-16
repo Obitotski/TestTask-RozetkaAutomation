@@ -28,3 +28,4 @@ Automate this test for **Google Chrome desktop browser**
 - Allure 
 - Git
 - “Page Object” pattern
+- Step Definitions
